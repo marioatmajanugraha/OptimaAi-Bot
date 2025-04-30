@@ -6,6 +6,8 @@ Script ini dirancang untuk mengotomatiskan pengambilan statistik dan hadiah node
 
 ## 📌 Fitur
 
+Register Here: https://node.optimai.network/register?ref=DF8C41D5
+
 - ✅ Mengambil statistik dashboard (rewards, tasks, uptime, dll.) secara otomatis  
 - 💰 Mengambil data hadiah node operator (data requests, uptime hours)  
 - 🔌 Dukungan proxy (`proxy.txt`) untuk koneksi aman  
